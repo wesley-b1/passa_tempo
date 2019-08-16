@@ -1,0 +1,8 @@
+O HC SR04 possui 4 pinos sendo eles:
+
+Vcc – Deve ser conectado a um pino 5V do Arduino.
+Trig – Deve ser conectado a um pino digital configurado como saída. Utilizaremos o pino 8.
+Echo – Deve ser conectado a um pino digital configurado como entrada. Utilizaremos o pino 7.
+Gnd – Deve ser conectado a um pino GND do Arduino.
+
+Adicione a biblioteca "Ultrasonic.zip" no programa "Arduino"
