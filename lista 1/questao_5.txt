@@ -1,0 +1,15 @@
+questão 5:
+a)O valor impresso foi 20, pois, ao realizar a operação "p1 = &valor", foi atribuido o endereço da variável "valor"
+logo, em seguida, o ponteiro p1 recebeu 20. Como "p1" aponta para "valor", o resultado de "valor" também muda.
+
+b)o valor obtido foi 29.0, seguindo o mesmo principio da questão anterior;
+
+c)Será impresso o caracter "P", pois a variável "aux" recebeu o valor do ponteiro p3, que, por sua vez, armazenava
+o endereço de nome[0]. Logo, será armazenado o valor da primeira posição do vetor;
+
+d) O caracter impresso será o "e", seguindo a mesma lógica da questão anterior, porém, o endereço armazenado pelo p3
+foi referente a quarta posição do vetor.
+
+e)O valor obtido foi o primeiro elemento do vetor "nome". O resultado foi o esperado pois a variável p3 foi declarada
+como char simples, podendo assim armazenar apenas um caracter.
+

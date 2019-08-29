@@ -1,0 +1,9 @@
+p = i;  -> É uma atribuição ilegal, pois um ponteiro deve "apontar" para um endereço de memória.
+q = &j;  -> É uma atribuição legal, pois &j é o endereço de j.
+p = &*&i;  -> É uma atrbuição ilegal. No ecxiste.
+i = (*&)j; -> Não é valida.
+i = *&j;  ->Não é válida.
+i = *&*&j;  -> É ilegal
+q = *p;  -> É ilegal
+i = (*p)++ + *q;  -> É válida
+

@@ -1,0 +1,4 @@
+a operação p == &i armazena o endereço onde i está alocado que foi: 0x69ff94
+*p - *q é igual a -2;
+**&p retorna o valor de i;
+3-*p/(*q)+7 é igual a 10, pois se *p/(*q) se trata de uma divisão de dois inteiros onde o *q é maior do que *p;

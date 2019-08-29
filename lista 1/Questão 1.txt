@@ -1,0 +1,3 @@
+
+A utilização de ponteiros é de extrema importância na criação de software, sendo útil na alocação dinâmica de memória;
+Também é útil para trocar valores de forma eficiente e sem prejudicar o código original;

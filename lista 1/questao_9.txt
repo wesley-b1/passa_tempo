@@ -1,0 +1,2 @@
+O primeiro programa imprime o contéudo que está armazenado nos endereços de cada elemento do vetor.
+Já o segundo, está imprimindo em hexadecimal o endereço de cada elemento do vetor.
