@@ -101,7 +101,7 @@ void Sculptor::cutSphere(int xcenter, int ycenter, int zcenter, int radius){
 }
 
 //*!
- //* Construtor da classe para geração da matriz tridimensional alocada dinamicamente.
+ //* Construtor da classe para geraÃ§Ã£o da matriz tridimensional alocada dinamicamente.
  //*/
 Sculptor::Sculptor(int _nx, int _ny, int _nz){
     //int i,j=0,k=0;
@@ -135,7 +135,7 @@ Sculptor::Sculptor(int _nx, int _ny, int _nz){
  */
 Sculptor::~Sculptor(){
     //se nao existir valor nas dimensoes a funcao sera encerrada
-    if(nx < 0 or ny < 0 or nz < 0){
+    if(nx < 0 || ny < 0 || nz < 0){
         return;
     }
     //liberacao da matriz
