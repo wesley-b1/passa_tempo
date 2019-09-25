@@ -8,4 +8,4 @@ PROJETOS
 
 # Matriz Tridimensional
 
-Proejto incompleto da segunda unidade da disciplina DCA1202 - PROGRAMAÇÃO AVANÇADA
+Projeto incompleto da segunda unidade da disciplina DCA1202 - PROGRAMAÇÃO AVANÇADA
