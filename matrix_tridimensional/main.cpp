@@ -13,10 +13,6 @@ int main()
         forma.cutVoxel(0,0,0);
         forma.putBox(0,0,0,0,0,0);
         forma.cutBox(0,0,0,0,0,0);
-       // forma.putSphere(0,0,0,0);
-        //forma.cutSphere(0,0,0,0);
-        //forma.putEllipsoid(0,0,0,5,6,5);
-        //forma.cutEllipsoid(0,0,0,0,0,0);
-        //forma.writeOFF("write.off");
+
         return 0;
 }
