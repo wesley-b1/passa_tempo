@@ -10,11 +10,11 @@ PROJETOS
 
 Projeto segunda unidade da disciplina DCA1202 - PROGRAMAÇÃO AVANÇADA, com o objetivo de desenhor figuras geometricas 3D utilizando matrizes digitais.
 
-##Como Usar:
+## Como Usar:
 
 
 
-###Componentes:
+### Componentes:
 
 Wesley Brito da Silva; 
 
