@@ -6,6 +6,9 @@ PROJETOS
 
 2 - Coleira Automática para Cães Cegos.
 
-# Matriz Tridimensional
+# Figura Geometrica
 
-Projeto incompleto da segunda unidade da disciplina DCA1202 - PROGRAMAÇÃO AVANÇADA
+Projeto segunda unidade da disciplina DCA1202 - PROGRAMAÇÃO AVANÇADA, com o objetivo de desenhor figuras geometricas 3D utilizando matrizes digitais.
+Componentes:
+Wesley Brito da Silva; 
+Ives Gabriel;
