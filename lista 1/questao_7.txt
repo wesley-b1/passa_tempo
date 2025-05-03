@@ -1,1 +1,0 @@
-*(pulo + 2) expressa o valor do terceiro elemento do vetor
